@@ -1,0 +1,19 @@
+{
+  "name": "en12ss_simple_calculator",
+  "version": "1.0.3",
+  "description": "A CALCULATOR THAT CAN USE ONLY FOR SIMPLE COMMAND",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EHTESHAM",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
